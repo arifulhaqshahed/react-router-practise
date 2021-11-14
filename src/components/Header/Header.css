@@ -1,0 +1,18 @@
+.header{
+    background-color: rgb(39, 38, 32);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.navbar{
+    background-color: rgb(39, 38, 32);
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.nav-link{
+    margin: 20px;
+    text-decoration: none;
+    color: rgb(24, 219, 193);
+    font-weight: 700;
+    font-size: 20px;
+}
